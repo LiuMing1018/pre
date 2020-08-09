@@ -1,7 +1,7 @@
-# PageRank
+# predict
 ### 一、**问题描述**
 
-使用`PageRank`算法计算给定数据集中`NodeID`的`rank`值。使用`Block-Stripe Update Algorithm`进行优化，并考虑`dead ends `和`spider trap `节点。
+神经网络进行垃圾识别分类
 
 <br>
 

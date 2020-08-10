@@ -1,7 +1,7 @@
 numpy==1.19.1
 pandas==1.1.0
 pillow==7.2.0
-pytorch==1.6.0
+pytorch
 streamlit==0.64.0
 torchvision==0.7.0
 cudatoolkit==10.1

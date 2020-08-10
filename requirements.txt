@@ -5,5 +5,3 @@ streamlit==0.64.0
 torchvision==0.7.0
 opencv-python==4.3.0.36
 efficientnet-pytorch==0.6.3
-efficientnet==1.1.0
-matplotlib==3.3.0

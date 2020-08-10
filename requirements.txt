@@ -1,5 +1,4 @@
 numpy==1.19.1
-pandas==1.1.0
 pillow==7.2.0
 torch
 streamlit==0.64.0
